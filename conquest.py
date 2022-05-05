@@ -1,3 +1,5 @@
+#problem: https://open.kattis.com/problems/conquest
+
 from collections import defaultdict
 
 x, y = list(map(int,input().split()))
