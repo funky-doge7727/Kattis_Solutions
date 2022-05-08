@@ -1,3 +1,5 @@
+#problem: https://open.kattis.com/problems/fodelsedagsmemorisering
+
 from collections import defaultdict
 dictt = defaultdict(tuple)
 
